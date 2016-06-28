@@ -12,3 +12,4 @@ installs the some useful development packages.
   - [`automake`](https://www.archlinux.org/packages/core/x86_64/automake/)
   - [`git`](https://www.archlinux.org/packages/extra/x86_64/git/)
   - [`sudo`](https://www.archlinux.org/packages/core/x86_64/sudo/)
+  - [`openssh`](https://www.archlinux.org/packages/core/x86_64/openssh/)

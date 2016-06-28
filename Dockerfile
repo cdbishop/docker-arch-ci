@@ -7,4 +7,6 @@ RUN pacman --noconfirm --needed -S \
   automake \
   git \
   python \
-  sudo
+  sudo \
+  openssh
+
