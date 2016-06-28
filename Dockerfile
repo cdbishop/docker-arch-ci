@@ -6,4 +6,7 @@ RUN pacman --noconfirm --needed -S \
   cmake \
   automake \
   git \
-  python
+  python \
+  sudo \
+  openssh
+
